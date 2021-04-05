@@ -2,7 +2,7 @@
 1. https://codebunk.com/
 2. https://codeshare.io/ (free upto 20 codeshares and may also get adverstisements)
 3. https://codeanywhere.com/ [Trail version available but not free]
-4. https://www.codetogether.com/ [Need to check this out, the FREE version is goos enough for 4 collaborative users]
+4. https://www.codetogether.com/ [Need to check this out, the FREE version is good enough for 4 collaborative users]
 5. https://www.remoteinterview.io/pricing [FULLY PAID]
 
 
